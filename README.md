@@ -8,7 +8,6 @@
 
     edge-tts
     gradio
-    asyncio
 
 ## 运行
 
