@@ -6,9 +6,9 @@
 
 ## 安装
 
-    pip install edge-tts
-    pip install gradio
-    pip install asyncio
+    edge-tts
+    gradio
+    asyncio
 
 ## 运行
 
